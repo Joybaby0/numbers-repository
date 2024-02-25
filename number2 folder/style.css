@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.second-container{
+    height: 300px;
+    width: 400px;
+    background-color: red;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+span{
+    text-decoration: underline;
+}
+
+.second-container button{
+    padding: 10px;
+    color: red;
+    font-weight: 900;
+    border: none;
+    border-radius: 3px;
+}
